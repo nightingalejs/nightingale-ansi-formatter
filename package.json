@@ -32,7 +32,7 @@
   "devDependencies": {
     "babel-cli": "^6.10.1",
     "babel-eslint": "^6.1.2",
-    "babel-plugin-defines": "^3.0.0",
+    "babel-plugin-defines": "^3.2.0",
     "babel-plugin-discard-module-references": "^1.0.0",
     "babel-plugin-remove-dead-code": "^1.1.0",
     "babel-plugin-typecheck": "^3.9.0",
