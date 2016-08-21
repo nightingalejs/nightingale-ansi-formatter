@@ -43,7 +43,7 @@
     "eslint-config-airbnb-base": "^4.0.2",
     "eslint-config-pob": "^6.1.2",
     "eslint-plugin-import": "^1.10.3",
-    "istanbul": "^0.4.4",
+    "istanbul": "^0.4.5",
     "mocha": "^2.5.3",
     "pob-babel": "^2.0.0",
     "pob-release": "^2.0.5",
