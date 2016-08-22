@@ -45,7 +45,7 @@
     "eslint-plugin-import": "^1.10.3",
     "istanbul": "^0.4.4",
     "mocha": "^2.5.3",
-    "pob-babel": "^2.0.0",
+    "pob-babel": "^7.3.0",
     "pob-release": "^2.0.5",
     "xunit-file": "^1.0.0"
   }
