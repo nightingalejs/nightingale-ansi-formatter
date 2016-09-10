@@ -40,7 +40,7 @@
     "babel-preset-flow": "^1.0.0",
     "babel-preset-stage-1": "^6.5.0",
     "eslint": "^3.1.0",
-    "eslint-config-airbnb-base": "^4.0.2",
+    "eslint-config-airbnb-base": "^7.0.1",
     "eslint-config-pob": "^6.1.2",
     "eslint-plugin-import": "^1.10.3",
     "istanbul": "^0.4.4",
